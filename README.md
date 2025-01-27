@@ -1,4 +1,4 @@
-# Mozila Developer Network (MDN):
+
 #English:
 # javaScriptIntroduction:
 # JavaScript
